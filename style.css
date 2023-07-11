@@ -60,6 +60,19 @@ img{
     
 }
 
+/* featured */
+.insta-sec .p{
+    width: 594px;
+    line-height: 30px;
+    text-align: center;
+    margin: auto;
+}
+
+.img-box{
+    display: flex;
+    width: 1440px;
+}
+
 /*hor deal section*/
 
 .hot-deal-sec{
@@ -145,5 +158,64 @@ span{
     height: 396px;
     margin-right: 24px;
 }
+
+/*subscrive section*/
+.subscribe-sec{
+    width: 1920px;
+}
+.img-back{
+    width: 1440px;
+    height: 449px;
+    background-image: url('./flower-asset/rectangle-9.png');
+    background-size: auto;
+    background-repeat: no-repeat;
+    margin-right: 240px;
+    margin-left: 240px;
+    padding: 12;
+
+}
+
+.img-back h3{
+    font-size: 40px;
+    font-family: lato;
+    font-weight: 800;
+    text-align: center;
+    text-transform: capitalize;
+    padding-top: 122px;
+}
+
+.img-back p{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-family: lato;
+    font-weight: 600;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 42px;
+}
+
+.img-back input{
+    font-size: 16px;
+    font-weight: 400;
+    width: 700px;
+    height: 64px;
+    border-radius: 8px;
+    margin-left: 280px;
+    padding-left: 22px;
+    color: rgba(39, 39, 39, 0.60);
+    border: none;
+    
+}
+.input-text{
+    width: 165px;
+    height: 19px;
+    margin-right: 16px;
+    
+}
+
+
+
+
+
     
 
