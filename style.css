@@ -2,3 +2,61 @@
     margin: 0;
     padding: 0;
 }
+
+.banner-part{
+    background-color:  rgba(229, 84, 115, 0.10);
+    width: 1920px;
+    height: 850px;
+    display: flex;
+    justify-content: space-around;
+
+    
+}
+.banner-text{
+    display: flex;
+    flex-direction: column;
+    margin-top: 197px;
+    margin-left: 190px;
+}
+.heding{
+    color: #272727;
+    font-size: 80px;
+    width: 800;
+
+}
+.p-tag{
+    color: rgba(39, 39, 39, 0.60);;
+    font-size: 19px;
+    font-weight: 400;
+    
+    width: 630px;
+    height: 90px;
+    padding-top: 27px;
+    padding-bottom: 26px;
+    line-height: 29px;
+    
+    
+}
+button{
+    padding: 20px 43px;
+    width: 177px;
+    height: 64px;
+    text-align: center;
+    background-color: #E55473;
+    color: #ffffff;
+    border-radius: 8px;
+    border: none;
+    font-size: 20px;
+
+}
+img{
+    width: 640px;
+    height: 800px;
+    margin-top: 50px;
+    margin-right: 170px;
+
+    
+}
+    
+    
+
