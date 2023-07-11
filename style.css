@@ -79,7 +79,7 @@ img{
 
 
 }
-h1{
+.h1 h1{
     width: 537px;
     height: 48px;
     color: #272727;
@@ -109,6 +109,41 @@ span{
 }
 .sign-up-btn{
     margin: 15px;
+}
+/*instragram section*/
+
+.instagram{
+    width: 1920px;
+}
+
+.insta-sec{
+    text-align: center;
+    margin-top: 100px;
+    
+}
+.insta-sec h1{
+    color: #272727;
+    font-size: 48px;
+    padding-bottom: 15px;
+
+}
+.insta-sec p{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 21px;
+    line-height: 30px;
+    padding-top: 15px;
+}
+.insta-image{
+    display: flex;
+    margin-top: 15px;
+    margin-right: 240px;
+    margin-left: 240px;
+    margin-bottom: 128px;
+}
+.ima{
+    width: 342px;
+    height: 396px;
+    margin-right: 24px;
 }
     
 
