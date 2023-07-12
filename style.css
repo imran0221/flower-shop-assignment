@@ -61,6 +61,93 @@ img{
 }
 
 /* featured */
+
+.feature-sec{
+    width: 1920px;
+    height: 1000px;
+    border: 2px solid black;
+
+}
+.feature-text{
+    text-align: center;
+}
+.feature-text h3{
+    color: #272727;
+    font-size: 40px;
+    padding-top: 170px;
+    
+}
+.feature-text p{
+    padding-top: 24px;
+    padding-bottom: 42px;
+    height: 60px;    
+    color: #393939;
+    font-size: 19px;
+    line-height: 27px;
+}
+.box{
+    display: flex;
+    justify-content: space-around;
+    margin-right: 200px;
+    margin-left: 200px;
+    border: 2px solid black;
+    
+}
+
+.box-1{
+    width: 464px;
+    height: 538px;
+    border-radius: 330px 330px 0px 0px; 
+    background-color: #e3bdcf;
+    border: 2px solid black;
+
+}
+.box-1 img{
+    width: 310px;
+    height: 428px;
+    margin: 110px 78px 0px;
+    border: 2px solid black;
+}
+.box-2{
+    width: 464px; 
+    height: 538px;
+    border-radius: 330px 330px 0px 0px; 
+    background-color: #9ccace;
+    border: 2px solid black;
+    
+}
+.box-2 img{
+    width: 370px;
+    height: 370px;
+    margin: 117px 47px 51px 50px;
+    border: 2px solid black;
+}
+.box-3{
+    width: 464px;
+    height: 538px;
+    border-radius: 330px 330px 0px 0px; 
+    background-color: #bada9b;
+    border: 2px solid black;
+    
+}
+.box-3 img{
+    width: 314px;
+    height: 471px;
+    margin: 67px 75px 0;
+    border: 2px solid black;
+}
+.box-1 p{
+    text-align: center;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 35px;
+    text-decoration: underline;
+
+
+}
+
+
+
 .insta-sec .p{
     width: 594px;
     line-height: 30px;
@@ -68,12 +155,8 @@ img{
     margin: auto;
 }
 
-.img-box{
-    display: flex;
-    width: 1440px;
-}
 
-/*hor deal section*/
+/*hot deal section*/
 
 .hot-deal-sec{
     width: 1920px;
@@ -159,7 +242,7 @@ span{
     margin-right: 24px;
 }
 
-/*subscrive section*/
+/*subscribe and search section*/
 .subscribe-sec{
     width: 1920px;
 }
@@ -213,7 +296,7 @@ span{
     
 }
 
-/*footer*/
+/*footer section*/
 .footer{
     width: 1920px;
     height: 449px;
@@ -236,7 +319,7 @@ span{
 }
 .footer-text p{
     height: 60px;
-    
+     
     
     color: rgba(219, 219, 219, 0.9);;
     font-size: 18px;
