@@ -213,6 +213,44 @@ span{
     
 }
 
+/*footer*/
+.footer{
+    width: 1920px;
+    height: 449px;
+    background: #2a2929;
+    margin-top: 128px;
+}
+.footer-text{
+    color: white;
+    text-align: center;
+    padding-top: 122px;
+}
+.footer-text h1{
+    font-size: 48px;
+    font-weight: 800; 
+
+}
+.for-color{
+    color: white;
+
+}
+.footer-text p{
+    height: 60px;
+    
+    
+    color: rgba(219, 219, 219, 0.9);;
+    font-size: 18px;
+    line-height: 27px;
+    padding-top: 24px;
+    padding-bottom: 32px;
+    
+}
+.footer-text h6{
+    color: rgba(255, 255, 255, 0.40);
+    font-size: 16px;
+}
+
+
 
 
 
